@@ -1,0 +1,985 @@
+[
+    {
+        "question": "What is the subject of the First Amendment?",
+        "answer": "The First Amendment of the United States Constitution addresses freedom of religion, freedom of speech, freedom of the press, and the right of the people to peacefully assemble."
+    },
+    {
+        "question": "When was the First Amendment ratified?",
+        "answer": "The First Amendment was ratified on [Date not specified, consult original documents for exact date]."
+    },
+    {
+        "question": "How many states were there when the first ten amendments (Bill of Rights) were ratified?",
+        "answer": "When the first ten amendments, known as the Bill of Rights, were ratified, there were 14 states in the Union."
+    },
+    {
+        "question": "Which amendment in the Bill of Rights was technically ratified by number?",
+        "answer": "The Thirteenth, Fourteenth, Fifteenth, and Sixteenth Amendments were technically ratified by number. The others were not assigned specific numbers."
+    },
+    {
+        "question": "Which state was the last to ratify the first ten amendments (Bill of Rights)?",
+        "answer": "Virginia was the last state to ratify the first ten amendments (Bill of Rights) on December 15, 1791."
+    },
+    {
+        "question": "Which two amendments in the Bill of Rights failed to be ratified initially?",
+        "answer": "Two amendments in the Bill of Rights failed to be ratified initially. The first was related to the ratio of representation to population in the House, and the second specified that no law varying the compensation of members of Congress should be effective until after an intervening election of Representatives."
+    },
+    {
+        "question": "When was the second amendment that initially failed to be ratified finally proclaimed as ratified?",
+        "answer": "The second amendment that initially failed to be ratified was proclaimed as ratified as of May 7, 1992."
+    },
+    {
+        "question": "Which states ratified the first ten amendments in 1939?",
+        "answer": "Connecticut, Georgia, and Massachusetts ratified the first ten amendments (Bill of Rights) in 1939."
+    }
+,
+    {
+        "question": "What are the main rights protected by the First Amendment?",
+        "answer": "The First Amendment protects the rights of freedom of religion, freedom of speech, freedom of the press, and the right of the people to peacefully assemble."
+    },
+    {
+        "question": "How many amendments are there in the Bill of Rights?",
+        "answer": "The Bill of Rights consists of ten amendments to the United States Constitution."
+    },
+    {
+        "question": "Which state ratified the First Amendment first?",
+        "answer": "New Jersey was the first state to ratify the First Amendment on November 20, 1789."
+    },
+    {
+        "question": "What was the role of the State journals in determining ratification dates?",
+        "answer": "In Dillon v. Gloss (1921), the Supreme Court stated that it would take judicial notice of the date on which a State ratified a proposed constitutional amendment by consulting the State journals."
+    },
+    {
+        "question": "When were the first ten amendments proposed by Congress?",
+        "answer": "The first ten amendments, including the Bill of Rights, were proposed by Congress on September 25, 1789."
+    },
+    {
+        "question": "What was the significance of the date December 15, 1791, in the ratification process?",
+        "answer": "December 15, 1791, was significant because it marked the completion of the ratification of the first ten amendments when the eleventh state, Virginia, approved these amendments."
+    },
+    {
+        "question": "Which two amendments were taken up by the States in the period 1980–1992 for ratification?",
+        "answer": "The two amendments taken up by the States in the period 1980–1992 for ratification were related to the ratio of representation in the House and the compensation of members of Congress."
+    },
+    {
+        "question": "What is the full name of the amendments known as the Bill of Rights?",
+        "answer": "The full name of the amendments known as the Bill of Rights is 'The United States Bill of Rights.'"
+    }
+,
+    {
+        "question": "What does the First Amendment prohibit Congress from doing?",
+        "answer": "The First Amendment prohibits Congress from making laws respecting an establishment of religion, prohibiting the free exercise of religion, abridging the freedom of speech, abridging the freedom of the press, and infringing on the right of the people to peacefully assemble."
+    },
+    {
+        "question": "What is the purpose of the Fifth Article of the original Constitution?",
+        "answer": "The Fifth Article of the original Constitution outlines the process for proposing and ratifying amendments to the Constitution."
+    },
+    {
+        "question": "How many states were required to ratify an amendment to the Constitution?",
+        "answer": "The ratification of an amendment to the Constitution required approval by three-fourths (75%) of the states."
+    },
+    {
+        "question": "Which state was the last to ratify the First Amendment?",
+        "answer": "Vermont was the last state to ratify the First Amendment on November 3, 1791."
+    },
+    {
+        "question": "What was the significance of May 7, 1992, in the ratification process?",
+        "answer": "May 7, 1992, was significant as it marked the proclamation of the ratification of the second amendment that initially failed to be ratified."
+    },
+    {
+        "question": "What were the two amendments that initially failed to be ratified?",
+        "answer": "The two amendments that initially failed to be ratified pertained to the ratio of representation in the House and the compensation of members of Congress."
+    },
+    {
+        "question": "What was the official name of the first ten amendments to the Constitution?",
+        "answer": "The official name of the first ten amendments to the Constitution is 'The Bill of Rights.'"
+    },
+    {
+        "question": "What role did the Department of State play in providing information about ratification?",
+        "answer": "The Department of State provided information about the ratification of amendments, except as otherwise indicated, based on data it supplied."
+    }
+,
+
+    {
+        "question": "What does Amendment II of the United States Constitution address?",
+        "answer": "Amendment II addresses the right of the people to keep and bear arms, emphasizing the importance of a well-regulated militia for the security of a free state."
+    },
+    {
+        "question": "What does Amendment III of the United States Constitution prohibit?",
+        "answer": "Amendment III prohibits the quartering of soldiers in private houses during times of peace without the owner's consent and provides guidelines for such quartering during times of war."
+    },
+    {
+        "question": "What does Amendment IV of the United States Constitution protect?",
+        "answer": "Amendment IV protects the right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures. It also sets conditions for the issuance of warrants."
+    },
+    {
+        "question": "What does Amendment V of the United States Constitution address?",
+        "answer": "Amendment V addresses various rights of individuals in the legal system, including the right to a grand jury indictment for certain crimes, protection against double jeopardy, self-incrimination, due process of law, and just compensation for the taking of private property for public use."
+    },
+    {
+        "question": "What does Amendment VI of the United States Constitution guarantee to accused individuals?",
+        "answer": "Amendment VI guarantees accused individuals the right to a speedy and public trial by an impartial jury, the right to be informed of the nature and cause of the accusation, the right to confront witnesses, the right to obtain witnesses in their favor, and the right to have the assistance of counsel for their defense."
+    },
+    {
+        "question": "What does Amendment VII of the United States Constitution preserve?",
+        "answer": "Amendment VII preserves the right to trial by jury in suits at common law when the value in controversy exceeds twenty dollars, and it ensures that facts tried by a jury shall not be reexamined in any Court of the United States except according to the rules of the common law."
+    },
+    {
+        "question": "What does Amendment VIII of the United States Constitution address?",
+        "answer": "Amendment VIII addresses several issues, including excessive bail, excessive fines, and cruel and unusual punishments, prohibiting such practices."
+    },
+    {
+        "question": "What is the purpose of Amendment IX of the United States Constitution?",
+        "answer": "Amendment IX states that the enumeration of certain rights in the Constitution shall not be construed to deny or disparage other rights retained by the people."
+    },
+    {
+        "question": "What does Amendment X of the United States Constitution specify?",
+        "answer": "Amendment X specifies that powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively or to the people."
+    }
+,
+    {
+        "question": "What fundamental right does Amendment II protect?",
+        "answer": "Amendment II protects the fundamental right of the people to keep and bear arms, emphasizing its importance for the security of a free state."
+    },
+    {
+        "question": "Under what conditions can soldiers be quartered in private houses, according to Amendment III?",
+        "answer": "According to Amendment III, soldiers can be quartered in private houses during times of war, but only in a manner prescribed by law. In times of peace, this can only happen with the consent of the owner."
+    },
+    {
+        "question": "What does Amendment IV protect against?",
+        "answer": "Amendment IV protects against unreasonable searches and seizures, ensuring that no warrants shall issue without probable cause supported by oath or affirmation. Warrants must also particularly describe the place to be searched and the persons or things to be seized."
+    },
+    {
+        "question": "What rights are covered by Amendment V, especially in criminal cases?",
+        "answer": "Amendment V covers various rights in criminal cases, including the right to a grand jury indictment for certain crimes, protection against double jeopardy, self-incrimination, due process of law, and just compensation for the taking of private property for public use."
+    },
+    {
+        "question": "What rights are guaranteed to accused individuals by Amendment VI?",
+        "answer": "Amendment VI guarantees accused individuals the right to a speedy and public trial by an impartial jury, the right to be informed of the nature and cause of the accusation, the right to confront witnesses, the right to obtain witnesses in their favor, and the right to have the assistance of counsel for their defense."
+    },
+    {
+        "question": "What type of cases is the right to trial by jury preserved for in Amendment VII?",
+        "answer": "Amendment VII preserves the right to trial by jury in suits at common law where the value in controversy exceeds twenty dollars."
+    },
+    {
+        "question": "What does Amendment VIII prohibit?",
+        "answer": "Amendment VIII prohibits excessive bail, excessive fines, and cruel and unusual punishments."
+    },
+    {
+        "question": "What principle is emphasized by Amendment IX?",
+        "answer": "Amendment IX emphasizes the principle that the enumeration of certain rights in the Constitution shall not be construed to deny or disparage other rights retained by the people."
+    },
+    {
+        "question": "According to Amendment X, where are powers not delegated to the United States or prohibited to the States reserved?",
+        "answer": "According to Amendment X, powers not delegated to the United States by the Constitution or prohibited by it to the States are reserved to the States respectively or to the people."
+    }
+,
+
+    {
+        "question": "What is the primary purpose of the Second Amendment?",
+        "answer": "The primary purpose of the Second Amendment is to ensure that a well-regulated militia is available to secure the freedom of a free state, and it affirms the right of the people to keep and bear arms."
+    },
+    {
+        "question": "What restrictions does the Third Amendment place on the quartering of soldiers?",
+        "answer": "The Third Amendment restricts the quartering of soldiers in private houses, allowing it only during times of war and in a manner prescribed by law. In times of peace, it requires the consent of the owner."
+    },
+    {
+        "question": "What conditions must be met for a warrant to be issued under the Fourth Amendment?",
+        "answer": "Under the Fourth Amendment, a warrant can only be issued upon probable cause, supported by oath or affirmation, and it must particularly describe the place to be searched and the persons or things to be seized."
+    },
+    {
+        "question": "What protections does the Fifth Amendment provide for individuals accused of a crime?",
+        "answer": "The Fifth Amendment provides several protections for individuals accused of a crime, including the right to a grand jury indictment for certain crimes, protection against double jeopardy, self-incrimination, due process of law, and just compensation for the taking of private property for public use."
+    },
+    {
+        "question": "What rights are guaranteed to accused individuals by the Sixth Amendment?",
+        "answer": "The Sixth Amendment guarantees accused individuals the right to a speedy and public trial by an impartial jury, the right to be informed of the nature and cause of the accusation, the right to confront witnesses, the right to obtain witnesses in their favor, and the right to have the assistance of counsel for their defense."
+    },
+    {
+        "question": "What types of cases is the right to trial by jury preserved for in the Seventh Amendment?",
+        "answer": "The Seventh Amendment preserves the right to trial by jury in suits at common law where the value in controversy exceeds twenty dollars."
+    },
+    {
+        "question": "What forms of punishment are prohibited by the Eighth Amendment?",
+        "answer": "The Eighth Amendment prohibits excessive bail, excessive fines, and cruel and unusual punishments."
+    },
+    {
+        "question": "What principle is emphasized by the Ninth Amendment?",
+        "answer": "The Ninth Amendment emphasizes the principle that the enumeration of certain rights in the Constitution shall not be construed to deny or disparage other rights retained by the people."
+    },
+    {
+        "question": "What powers are reserved by the Tenth Amendment?",
+        "answer": "The Tenth Amendment reserves powers not delegated to the United States by the Constitution, nor prohibited by it to the States, to the States respectively or to the people."
+    }
+,
+    {
+        "question": "What does Amendment XIII of the United States Constitution address?",
+        "answer": "Amendment XIII addresses the abolition of slavery and involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, within the United States or any place subject to their jurisdiction."
+    },
+    {
+        "question": "What powers does Congress have under Amendment XIII?",
+        "answer": "Under Amendment XIII, Congress has the power to enforce this article by appropriate legislation."
+    },
+    {
+        "question": "What does Amendment XIV of the United States Constitution establish regarding citizenship?",
+        "answer": "Amendment XIV establishes that all persons born or naturalized in the United States and subject to its jurisdiction are citizens of the United States and of the State wherein they reside. It also prohibits states from abridging the privileges or immunities of citizens, depriving any person of life, liberty, or property without due process of law, or denying any person within its jurisdiction the equal protection of the laws."
+    },
+    {
+        "question": "What does Amendment XIV specify regarding representation and voting rights?",
+        "answer": "Amendment XIV specifies the apportionment of representatives among states based on the number of persons, excluding Indians not taxed. It also states that if the right to vote is denied to male inhabitants of a state, being twenty-one years of age and citizens of the United States, except for participation in rebellion or other crime, the basis of representation shall be reduced accordingly."
+    },
+    {
+        "question": "What conditions lead to the disqualification of individuals from holding office under Amendment XIV?",
+        "answer": "Under Amendment XIV, individuals who have previously taken an oath to support the Constitution of the United States and have engaged in insurrection or rebellion against the same or given aid or comfort to the enemies thereof are disqualified from holding office. However, Congress may remove this disability by a two-thirds vote of each House."
+    },
+    {
+        "question": "What does Amendment XIV state about the validity of the public debt of the United States?",
+        "answer": "Amendment XIV states that the validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. It also specifies that neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States or any claim for the loss or emancipation of any slave."
+    },
+    {
+        "question": "What powers does Congress have under Amendment XIV?",
+        "answer": "Under Amendment XIV, Congress has the power to enforce the provisions of this article by appropriate legislation."
+    },
+    {
+        "question": "What is addressed in Amendment XV of the United States Constitution?",
+        "answer": "Amendment XV addresses the right of citizens of the United States to vote and prohibits the denial or abridgment of this right on account of race, color, or previous condition of servitude."
+    },
+    {
+        "question": "What powers does Congress have under Amendment XV?",
+        "answer": "Under Amendment XV, Congress has the power to enforce this article by appropriate legislation."
+    }
+,
+    {
+        "question": "What does Amendment XIII primarily address?",
+        "answer": "Amendment XIII primarily addresses the abolition of slavery and involuntary servitude in the United States, with certain exceptions."
+    },
+    {
+        "question": "Under what conditions can involuntary servitude exist according to Amendment XIII?",
+        "answer": "Involuntary servitude can exist according to Amendment XIII as a punishment for a crime for which the party has been duly convicted."
+    },
+    {
+        "question": "What power does Amendment XIII grant to Congress?",
+        "answer": "Amendment XIII grants Congress the power to enforce this amendment through appropriate legislation."
+    },
+    {
+        "question": "What does Amendment XIV establish regarding citizenship?",
+        "answer": "Amendment XIV establishes that all persons born or naturalized in the United States and subject to its jurisdiction are citizens of the United States and of the state in which they reside."
+    },
+    {
+        "question": "What rights are protected by Amendment XIV against state actions?",
+        "answer": "Amendment XIV protects various rights against state actions, including the privileges and immunities of citizens, the right to due process of law, and the right to equal protection under the laws."
+    },
+    {
+        "question": "What principle is emphasized by Amendment XIV regarding representation?",
+        "answer": "Amendment XIV emphasizes the principle that representation in Congress is based on the whole number of persons in each state, excluding Indians not taxed."
+    },
+    {
+        "question": "What disqualifies individuals from holding office under Amendment XIV?",
+        "answer": "Under Amendment XIV, individuals who have previously taken an oath to support the Constitution of the United States and have engaged in insurrection or rebellion against it or given aid or comfort to its enemies are disqualified from holding office. However, Congress can remove this disqualification by a two-thirds vote of each House."
+    },
+    {
+        "question": "What does Amendment XIV say about the public debt of the United States?",
+        "answer": "Amendment XIV specifies that the validity of the public debt of the United States, authorized by law, shall not be questioned. It also prohibits the assumption or payment of any debt or obligation incurred in aid of insurrection or rebellion against the United States or any claim for the loss or emancipation of slaves."
+    },
+    {
+        "question": "What powers does Congress have under Amendment XIV?",
+        "answer": "Under Amendment XIV, Congress has the power to enforce the provisions of this amendment through appropriate legislation."
+    },
+    {
+        "question": "What right is protected by Amendment XV and against what discrimination?",
+        "answer": "Amendment XV protects the right of citizens of the United States to vote and prohibits its denial or abridgment by the United States or any state on account of race, color, or previous condition of servitude."
+    },
+    {
+        "question": "What power does Amendment XV grant to Congress?",
+        "answer": "Amendment XV grants Congress the power to enforce this article through appropriate legislation."
+    }
+
+,
+
+    {
+        "question": "What is the significance of Amendment XIII in the United States?",
+        "answer": "Amendment XIII is highly significant in the United States as it abolished slavery and involuntary servitude, marking a pivotal moment in the nation's history."
+    },
+    {
+        "question": "Under what circumstances can slavery or involuntary servitude exist according to Amendment XIII?",
+        "answer": "Amendment XIII allows for slavery or involuntary servitude to exist as a punishment for a crime when the party has been duly convicted."
+    },
+    {
+        "question": "What rights are protected by Amendment XIV against state actions?",
+        "answer": "Amendment XIV protects fundamental rights against state actions, including the right to due process of law, the right to equal protection under the laws, and the privileges and immunities of citizens."
+    },
+    {
+        "question": "What is the role of Congress in enforcing Amendment XIV?",
+        "answer": "Congress has the role of enforcing the provisions of Amendment XIV through appropriate legislation, ensuring that states do not infringe upon the rights of citizens."
+    },
+    {
+        "question": "What does Amendment XV aim to prevent when it comes to voting rights?",
+        "answer": "Amendment XV aims to prevent the denial or abridgment of voting rights based on race, color, or previous condition of servitude, ensuring equal access to the ballot for all citizens."
+    }
+
+    ,
+
+    
+        {
+            "question": "What is the subject of Amendment XVII of the United States Constitution?",
+            "answer": "Amendment XVII of the United States Constitution deals with the composition and election of Senators in the United States Senate."
+        },
+        {
+            "question": "How many Senators does each state have according to Amendment XVII?",
+            "answer": "According to Amendment XVII, each state in the United States shall have two Senators."
+        },
+        {
+            "question": "How long is the term of office for a Senator as specified in Amendment XVII?",
+            "answer": "The term of office for a Senator as specified in Amendment XVII is six years."
+        },
+        {
+            "question": "What qualifications must electors in each state have as per Amendment XVII?",
+            "answer": "According to Amendment XVII, the electors in each state must have the qualifications requisite for electors of the most numerous branch of the State legislatures."
+        },
+        {
+            "question": "What happens when vacancies occur in the representation of any state in the Senate?",
+            "answer": "When vacancies occur in the representation of any state in the Senate, the executive authority of that state shall issue writs of election to fill such vacancies. Additionally, the legislature of any state may empower the executive to make temporary appointments until the people fill the vacancies through election as directed by the legislature."
+        },
+        {
+            "question": "Is there any provision in Amendment XVII for Senators chosen before it becomes valid as part of the Constitution?",
+            "answer": "Yes, Amendment XVII specifies that it shall not be construed to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution."
+        }
+    ,
+        {
+            "question": "When was the Eleventh Amendment proposed by Congress?",
+            "answer": "The Eleventh Amendment was proposed by Congress on March 4, 1794."
+        },
+        {
+            "question": "When was the ratification of the Eleventh Amendment completed?",
+            "answer": "Ratification of the Eleventh Amendment was completed on February 7, 1795."
+        },
+        {
+            "question": "Which state was the twelfth state to approve the Eleventh Amendment?",
+            "answer": "North Carolina was the twelfth state to approve the Eleventh Amendment."
+        },
+        {
+            "question": "When was the official announcement of the ratification of the Eleventh Amendment made?",
+            "answer": "The official announcement of the ratification of the Eleventh Amendment was made on January 8, 1798, by President John Adams."
+        }
+        ,
+        {
+            "question": "When was the Twelfth Amendment proposed by Congress?",
+            "answer": "The Twelfth Amendment was proposed by Congress on December 9, 1803."
+        },
+        {
+            "question": "When was the ratification of the Twelfth Amendment likely completed?",
+            "answer": "Ratification of the Twelfth Amendment was likely completed on June 15, 1804."
+        },
+        {
+            "question": "Which state was the thirteenth state to approve the Twelfth Amendment?",
+            "answer": "Tennessee was the thirteenth state to approve the Twelfth Amendment."
+        },
+        {
+            "question": "When did Secretary of State Madison declare the Twelfth Amendment as ratified by three-fourths of the States?",
+            "answer": "On September 25, 1804, Secretary of State Madison declared the Twelfth Amendment ratified by three-fourths of the States."
+        }
+,
+{
+    "question": "When was the Fourteenth Amendment proposed by Congress?",
+    "answer": "The Fourteenth Amendment was proposed by Congress on July 21, 1868."
+},
+{
+    "question": "When was the official certification of the Fourteenth Amendment made by Secretary of State Seward?",
+    "answer": "Secretary of State Seward certified the Fourteenth Amendment as part of the Constitution on July 28, 1868."
+},
+{
+    "question": "How many States were in the Union when the Fourteenth Amendment was approved?",
+    "answer": "There were 37 States in the Union when the Fourteenth Amendment was approved."
+},
+{
+    "question": "Which States had previously withdrawn their assent to the Fourteenth Amendment?",
+    "answer": "Ohio and New Jersey had previously 'withdrawn' their earlier assent to this amendment."
+},
+{
+    "question": "Which States ratified the Fourteenth Amendment after it was approved?",
+    "answer": "Alabama and Georgia ratified the Fourteenth Amendment after it was approved."
+},
+{
+    "question": "When did Alabama approve the Fourteenth Amendment?",
+    "answer": "Alabama approved the Fourteenth Amendment on July 13, 1868."
+},
+{
+    "question": "When did Georgia approve the Fourteenth Amendment?",
+    "answer": "Georgia approved the Fourteenth Amendment on July 21, 1868."
+},
+{
+    "question": "Which States had previously rejected the Fourteenth Amendment?",
+    "answer": "North Carolina, Louisiana, and South Carolina had previously rejected the amendment."
+},
+{
+    "question": "When did North Carolina approve the Fourteenth Amendment?",
+    "answer": "North Carolina approved the Fourteenth Amendment on July 2, 1868, after having previously rejected it on December 13, 1866."
+},
+{
+    "question": "When did Louisiana approve the Fourteenth Amendment?",
+    "answer": "Louisiana approved the Fourteenth Amendment on July 9, 1868, after having previously rejected it on February 6, 1867."
+},
+{
+    "question": "When did South Carolina approve the Fourteenth Amendment?",
+    "answer": "South Carolina approved the Fourteenth Amendment on July 8, 1868, after having previously rejected it on December 20, 1866."
+},
+{
+    "question": "When did Virginia approve the Fourteenth Amendment?",
+    "answer": "Virginia approved the Fourteenth Amendment on October 8, 1869, after having previously rejected it on January 9, 1867."
+},
+{
+    "question": "When did Mississippi approve the Fourteenth Amendment?",
+    "answer": "Mississippi approved the Fourteenth Amendment on January 17, 1870."
+},
+{
+    "question": "When did Texas approve the Fourteenth Amendment?",
+    "answer": "Texas approved the Fourteenth Amendment on February 18, 1870, after having previously rejected it on October 27, 1866."
+},
+{
+    "question": "When did Delaware approve the Fourteenth Amendment?",
+    "answer": "Delaware approved the Fourteenth Amendment on February 12, 1901, after having previously rejected it on February 7, 1867."
+},
+{
+    "question": "Which States ratified the Fourteenth Amendment in later years?",
+    "answer": "Maryland and California ratified the Fourteenth Amendment in 1959."
+},
+{
+    "question": "Which State rejected the Fourteenth Amendment on January 8, 1867?",
+    "answer": "Kentucky rejected the Fourteenth Amendment on January 8, 1867, and did not subsequently ratify it."
+}
+,
+{
+    "question": "When was the Fifteenth Amendment proposed by Congress?",
+    "answer": "The Fifteenth Amendment was proposed by Congress on February 26, 1869."
+},
+{
+    "question": "When was the official certification of the Fifteenth Amendment made by Secretary of State Fish?",
+    "answer": "Secretary of State Fish certified that the Fifteenth Amendment had become a part of the Constitution on March 30, 1870."
+},
+{
+    "question": "How many States were in the Union when the Fifteenth Amendment was approved?",
+    "answer": "There were 37 States in the Union when the Fifteenth Amendment was approved."
+},
+{
+    "question": "Which States had previously withdrawn their assent to the Fifteenth Amendment?",
+    "answer": "New York had prior to the amendment's approval 'withdrawn' its earlier assent to the amendment."
+},
+{
+    "question": "Which States ratified the Fifteenth Amendment after it was approved?",
+    "answer": "Nebraska ratified the Fifteenth Amendment on February 17, 1870."
+},
+{
+    "question": "When did Nebraska approve the Fifteenth Amendment?",
+    "answer": "Nebraska approved the Fifteenth Amendment on February 17, 1870."
+},
+{
+    "question": "Which States had previously rejected the Fifteenth Amendment?",
+    "answer": "Kentucky, Maryland, and Tennessee had previously rejected the amendment."
+},
+{
+    "question": "When did Kentucky reject the Fifteenth Amendment?",
+    "answer": "Kentucky rejected the Fifteenth Amendment and did not subsequently ratify it."
+},
+{
+    "question": "When did Maryland ratify the Fifteenth Amendment?",
+    "answer": "Maryland ratified the Fifteenth Amendment in 1962."
+},
+{
+    "question": "When did Oregon ratify the Fifteenth Amendment?",
+    "answer": "Oregon ratified the Fifteenth Amendment in 1959."
+}
+,
+{
+    "question": "When was the Sixteenth Amendment proposed by Congress?",
+    "answer": "The Sixteenth Amendment was proposed by Congress on July 12, 1909."
+},
+{
+    "question": "When was the official certification of the Sixteenth Amendment made by Secretary of State Knox?",
+    "answer": "Secretary of State Knox certified that the Sixteenth Amendment had become a part of the Constitution on February 25, 1913."
+},
+{
+    "question": "How many States were in the Union when the Sixteenth Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Sixteenth Amendment was approved."
+},
+{
+    "question": "Which States ratified the Sixteenth Amendment?",
+    "answer": "Multiple states, including Alabama, Kentucky, South Carolina, Illinois, Mississippi, Oklahoma, Maryland, Georgia, Texas, Ohio, Idaho, Oregon, Washington, Montana, Indiana, California, Nevada, South Dakota, Nebraska, North Carolina, Colorado, North Dakota, Michigan, Iowa, Kansas, Missouri, Maine, Tennessee, Arkansas, Wisconsin, New York, Arizona, Minnesota, Louisiana, West Virginia, Delaware, Wyoming, New Mexico, New Jersey, Vermont, Massachusetts, New Hampshire, and Connecticut, ratified the Sixteenth Amendment."
+},
+{
+    "question": "Which States rejected the Sixteenth Amendment?",
+    "answer": "Connecticut, Rhode Island, and Utah rejected the Sixteenth Amendment."
+}
+,
+{
+    "question": "When was the Seventeenth Amendment proposed by Congress?",
+    "answer": "The Seventeenth Amendment was proposed by Congress on May 13, 1912."
+},
+{
+    "question": "When was the official certification of the Seventeenth Amendment made by Secretary of State Bryan?",
+    "answer": "Secretary of State Bryan certified that the Seventeenth Amendment had become a part of the Constitution on May 31, 1913."
+},
+{
+    "question": "How many States were in the Union when the Seventeenth Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Seventeenth Amendment was approved."
+},
+{
+    "question": "Which States ratified the Seventeenth Amendment?",
+    "answer": "Multiple states, including Massachusetts, Arizona, Minnesota, New York, Kansas, Oregon, North Carolina, California, Michigan, Iowa, Montana, Idaho, West Virginia, Colorado, Nevada, Texas, Washington, Wyoming, Arkansas, Illinois, North Dakota, Wisconsin, Indiana, New Hampshire, Vermont, South Dakota, Maine, Oklahoma, Ohio, Missouri, New Mexico, Nebraska, New Jersey, Tennessee, Pennsylvania, Connecticut, Louisiana, and Delaware, ratified the Seventeenth Amendment."
+},
+{
+    "question": "Which States rejected the Seventeenth Amendment?",
+    "answer": "Utah rejected the Seventeenth Amendment."
+}
+,
+{
+    "question": "When was the Eighteenth Amendment proposed by Congress?",
+    "answer": "The Eighteenth Amendment was proposed by Congress on December 18, 1917."
+},
+{
+    "question": "When was the official certification of the Eighteenth Amendment made by Acting Secretary of State Polk?",
+    "answer": "Acting Secretary of State Polk certified that the Eighteenth Amendment had been adopted by the requisite number of States on January 29, 1919."
+},
+{
+    "question": "How many States were in the Union when the Eighteenth Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Eighteenth Amendment was approved."
+},
+{
+    "question": "When did the Eighteenth Amendment become effective?",
+    "answer": "The Eighteenth Amendment did not become effective until 1 year after ratification."
+},
+{
+    "question": "Which States ratified the Eighteenth Amendment?",
+    "answer": "Multiple states, including Mississippi, Virginia, Kentucky, North Dakota, South Carolina, Maryland, Montana, Texas, Delaware, South Dakota, Massachusetts, Arizona, Georgia, Louisiana, Florida, Michigan, Ohio, Oklahoma, Idaho, Maine, West Virginia, California, Tennessee, Washington, Arkansas, Kansas, Illinois, Indiana, Alabama, Colorado, Iowa, New Hampshire, Oregon, Nebraska, North Carolina, Utah, Missouri, Wyoming, Minnesota, Wisconsin, New Mexico, Nevada, Pennsylvania, New Jersey, New York, and Vermont, ratified the Eighteenth Amendment."
+},
+{
+    "question": "Which States rejected the Eighteenth Amendment?",
+    "answer": "No States rejected the Eighteenth Amendment."
+}
+,
+{
+    "question": "When was the Nineteenth Amendment proposed by Congress?",
+    "answer": "The Nineteenth Amendment was proposed by Congress on June 4, 1919."
+},
+{
+    "question": "When was the official certification of the Nineteenth Amendment made by Secretary of State Colby?",
+    "answer": "Secretary of State Colby certified that the Nineteenth Amendment had become a part of the Constitution on August 26, 1920."
+},
+{
+    "question": "How many States were in the Union when the Nineteenth Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Nineteenth Amendment was approved."
+},
+{
+    "question": "Which States ratified the Nineteenth Amendment?",
+    "answer": "Multiple states, including Illinois, Michigan, Wisconsin, Kansas, New York, Ohio, Pennsylvania, Massachusetts, Texas, Iowa, Missouri, Arkansas, Montana, Nebraska, Minnesota, New Hampshire, Utah, California, Maine, North Dakota, South Dakota, Colorado, Kentucky, Rhode Island, Oregon, Indiana, Wyoming, Nevada, New Jersey, Idaho, Arizona, New Mexico, Oklahoma, West Virginia, Washington, Tennessee, Vermont, Virginia, Alabama, Florida, Georgia, and Louisiana, ratified the Nineteenth Amendment."
+},
+{
+    "question": "Which States rejected the Nineteenth Amendment?",
+    "answer": "The Nineteenth Amendment was rejected by Georgia, Alabama, South Carolina, Virginia, Maryland, Mississippi, and Louisiana. It was subsequently ratified by Virginia in 1952, Alabama in 1953, Florida in 1969, and Georgia and Louisiana in 1970."
+}
+,
+{
+    "question": "When was the Twentieth Amendment proposed by Congress?",
+    "answer": "The Twentieth Amendment was proposed by Congress on March 2, 1932."
+},
+{
+    "question": "When was the official certification of the Twentieth Amendment made by Secretary of State Stimson?",
+    "answer": "Secretary of State Stimson certified that the Twentieth Amendment had been adopted by the requisite number of States on February 6, 1933."
+},
+{
+    "question": "How many States were in the Union when the Twentieth Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Twentieth Amendment was approved."
+},
+{
+    "question": "Which States ratified the Twentieth Amendment?",
+    "answer": "Multiple states, including Delaware, New Hampshire, Utah, New Jersey, Oregon, Vermont, Colorado, Massachusetts, Iowa, Nevada, Connecticut, Arkansas, North Dakota, South Dakota, Kentucky, Missouri, Maryland, New Mexico, Tennessee, Arizona, North Carolina, Wyoming, Indiana, Montana, Nebraska, Oklahoma, Washington, West Virginia, Mississippi, South Carolina, Michigan, and Wisconsin, ratified the Twentieth Amendment."
+},
+{
+    "question": "Which States rejected the Twentieth Amendment?",
+    "answer": "No States rejected the Twentieth Amendment."
+},
+{
+    "question": "What does the Twentieth Amendment address?",
+    "answer": "The Twentieth Amendment addresses the terms and sessions of Congress and the inauguration of the President and Vice President."
+}
+,
+{
+    "question": "When was the Twenty-First Amendment proposed by Congress?",
+    "answer": "The Twenty-First Amendment was proposed by Congress on February 20, 1933."
+},
+{
+    "question": "When was the official certification of the Twenty-First Amendment made by Secretary of State Hull?",
+    "answer": "Secretary of State Hull certified that the Twenty-First Amendment had been adopted by the requisite number of States on December 5, 1933."
+},
+{
+    "question": "How many States were in the Union when the Twenty-First Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Twenty-First Amendment was approved."
+},
+{
+    "question": "Which States ratified the Twenty-First Amendment?",
+    "answer": "Multiple states, including Michigan, Wisconsin, Rhode Island, Wyoming, New Jersey, Delaware, Indiana, Massachusetts, New York, Illinois, Iowa, Ohio, Pennsylvania, West Virginia, California, Kentucky, New Hampshire, Oregon, and Colorado, ratified the Twenty-First Amendment."
+},
+{
+    "question": "Which States rejected the Twenty-First Amendment?",
+    "answer": "No States rejected the Twenty-First Amendment."
+},
+{
+    "question": "What does the Twenty-First Amendment address?",
+    "answer": "The Twenty-First Amendment addresses the repeal of the Eighteenth Amendment (Prohibition) and the regulation of alcoholic beverages."
+}
+,
+{
+    "question": "When was the Twentieth Amendment proposed by Congress?",
+    "answer": "The Twentieth Amendment was proposed by Congress on March 2, 1932."
+},
+{
+    "question": "When was the official certification of the Twentieth Amendment made by Secretary of State Stimson?",
+    "answer": "Secretary of State Stimson certified that the Twentieth Amendment had become a part of the Constitution on February 6, 1933."
+},
+{
+    "question": "How many States were in the Union when the Twentieth Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Twentieth Amendment was approved."
+},
+{
+    "question": "Which State was the thirty-sixth to approve the Twentieth Amendment?",
+    "answer": "Tennessee was the thirty-sixth State to approve the Twentieth Amendment on January 20, 1933."
+},
+{
+    "question": "What does the Twentieth Amendment address?",
+    "answer": "The Twentieth Amendment addresses the terms and sessions of Congress and the inauguration of the President and Vice President."
+},
+{
+    "question": "Which States ratified the Twentieth Amendment?",
+    "answer": "Multiple states ratified the Twentieth Amendment, including Virginia, New York, Mississippi, Arkansas, Kentucky, New Jersey, South Carolina, Michigan, Maine, Rhode Island, Illinois, Louisiana, West Virginia, Pennsylvania, Indiana, Texas, Alabama, California, North Carolina, North Dakota, Minnesota, Arizona, Montana, Nebraska, Oklahoma, Kansas, Oregon, Delaware, Washington, Wyoming, Iowa, South Dakota, Tennessee, Idaho, New Mexico, Georgia, Missouri, Ohio, Utah, Colorado, Massachusetts, Wisconsin, Nevada, Connecticut, New Hampshire, Vermont, Maryland, and Florida."
+},
+{
+    "question": "Which States rejected the Twentieth Amendment?",
+    "answer": "No States rejected the Twentieth Amendment."
+}
+,
+{
+    "question": "When was the Twenty-First Amendment proposed by Congress?",
+    "answer": "The Twenty-First Amendment was proposed by Congress on February 20, 1933."
+},
+{
+    "question": "When was the official certification of the Twenty-First Amendment made by Secretary of State Hull?",
+    "answer": "Secretary of State Hull certified that the Twenty-First Amendment had become a part of the Constitution on December 5, 1933."
+},
+{
+    "question": "How many States were in the Union when the Twenty-First Amendment was approved?",
+    "answer": "There were 48 States in the Union when the Twenty-First Amendment was approved."
+},
+{
+    "question": "Which State was the thirty-sixth to approve the Twenty-First Amendment?",
+    "answer": "Utah was the thirty-sixth State to approve the Twenty-First Amendment on December 5, 1933."
+},
+{
+    "question": "What does the Twenty-First Amendment address?",
+    "answer": "The Twenty-First Amendment addresses the repeal of Prohibition, effectively ending the nationwide ban on the sale, production, and transportation of alcoholic beverages."
+},
+{
+    "question": "Which States ratified the Twenty-First Amendment?",
+    "answer": "Multiple states ratified the Twenty-First Amendment, including Illinois, Indiana, Kentucky, Ohio, Pennsylvania, Utah, Massachusetts, New York, Connecticut, New Hampshire, Rhode Island, New Jersey, Delaware, Iowa, Oregon, Nebraska, Wisconsin, Colorado, Nevada, Montana, North Dakota, Minnesota, Arizona, Washington, Maryland, Arkansas, Missouri, West Virginia, Vermont, Mississippi, Wyoming, South Dakota, and California."
+},
+{
+    "question": "Which States rejected the Twenty-First Amendment?",
+    "answer": "No States rejected the Twenty-First Amendment."
+}
+
+,
+
+    {
+        "question": "What does Amendment XV Section 1 guarantee?",
+        "answer": "The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude."
+    },
+    {
+        "question": "What does Amendment XV Section 2 grant to Congress?",
+        "answer": "The Congress shall have power to enforce this article by appropriate legislation."
+    },
+    {
+        "question": "What does Amendment XVI grant to Congress?",
+        "answer": "The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration."
+    },
+    {
+        "question": "When was Amendment XV proposed by Congress?",
+        "answer": "Amendment XV was proposed by Congress on February 26, 1869."
+    },
+    {
+        "question": "When was Amendment XV ratified?",
+        "answer": "Ratification was probably completed on February 3, 1870, when the legislature of the twenty-eighth State (Iowa) approved the amendment, there being then 37 States in the Union."
+    },
+    {
+        "question": "Which states ratified Amendment XV?",
+        "answer": "The several state legislatures ratified the Fifteenth Amendment on various dates, including Nevada, West Virginia, North Carolina, Louisiana, Illinois, Michigan, Wisconsin, Maine, Massachusetts, South Carolina, Arkansas, Pennsylvania, New York, Indiana, Connecticut, Florida, New Hampshire, Virginia, Vermont, Alabama, Missouri, Minnesota, Mississippi, Rhode Island, Kansas, Ohio, Georgia, Iowa, Nebraska, Texas, New Jersey, and Delaware. The amendment was rejected by Kentucky, Maryland, and Tennessee. California ratified this amendment in 1962 and Oregon in 1959."
+    },
+    {
+        "question": "When was Amendment XVI proposed by Congress?",
+        "answer": "Amendment XVI was proposed by Congress on July 12, 1909."
+    },
+    {
+        "question": "When was Amendment XVI ratified?",
+        "answer": "Ratification was completed on February 3, 1913, when the legislature of the thirty-sixth State (Delaware, Wyoming, or New Mexico) approved the amendment."
+    },
+    {
+            "question": "What is the subject matter of Amendment XV?",
+            "answer": "Amendment XV addresses the right to vote and prohibits its denial or abridgment based on race, color, or previous condition of servitude."
+    },
+    {
+            "question": "What is the subject matter of Amendment XVI?",
+            "answer": "Amendment XVI grants Congress the power to lay and collect taxes on incomes from any source without apportionment among the states."
+    },
+    {
+            "question": "Which states ratified Amendment XV on March 5, 1869?",
+            "answer": "The states of North Carolina, Louisiana, and Illinois ratified Amendment XV on March 5, 1869."
+    },
+    {
+            "question": "Which state was the last to ratify Amendment XV?",
+            "answer": "Delaware was the last state to ratify Amendment XV on February 12, 1901."
+    },
+    {
+            "question": "How many states ratified Amendment XV?",
+            "answer": "Amendment XV was ratified by a total of 28 states."
+    },
+    {
+            "question": "Which states rejected Amendment XV?",
+            "answer": "Amendment XV was rejected (and was not subsequently ratified) by Kentucky, Maryland, and Tennessee."
+    },
+    {
+            "question": "Which states ratified Amendment XVI on July 5, 1909?",
+            "answer": "The Senate passed Amendment XVI on July 5, 1909."
+    },
+    {
+            "question": "When did Amendment XVI become part of the Constitution?",
+            "answer": "Amendment XVI became part of the Constitution on February 3, 1913, after being ratified by the thirty-sixth state."
+    },
+    {
+            "question": "What does Amendment XVI allow Congress to tax?",
+            "answer": "Amendment XVI allows Congress to tax incomes from any source, without regard to any census or enumeration."
+    },
+    {
+        "question": "What is the subject matter of Amendment XVIII?",
+        "answer": "Amendment XVIII prohibits the manufacture, sale, or transportation of intoxicating liquors for beverage purposes within, into, or from the United States and all territory subject to its jurisdiction."
+    },
+    {
+        "question": "When was Amendment XVIII proposed by Congress?",
+        "answer": "Amendment XVIII was proposed by Congress on December 18, 1917."
+    },
+    {
+        "question": "When was Amendment XVIII ratified?",
+        "answer": "Ratification was completed on January 16, 1919, when the thirty-sixth State approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XVIII?",
+        "answer": "Amendment XVIII was ratified by several states, including Mississippi, Virginia, Kentucky, North Dakota, South Carolina, Maryland, Montana, Texas, Delaware, South Dakota, Massachusetts, Arizona, Georgia, Louisiana, Florida, Michigan, Ohio, Oklahoma, Idaho, Maine, West Virginia, California, Tennessee, Washington, Arkansas, Kansas, Illinois, Indiana, Alabama, Colorado, Iowa, New Hampshire, Oregon, Nebraska, North Carolina, Utah, Missouri, Wyoming, Minnesota, Wisconsin, New Mexico, Nevada, Pennsylvania, New Jersey, New York, and Vermont."
+    },
+    {
+        "question": "When did Amendment XVIII become effective?",
+        "answer": "Amendment XVIII became effective one year after its ratification."
+    },
+    {
+        "question": "What is the subject matter of Amendment XIX?",
+        "answer": "Amendment XIX grants the right of citizens of the United States to vote and prohibits its denial or abridgment on account of sex."
+    },
+    {
+        "question": "When was Amendment XIX proposed by Congress?",
+        "answer": "Amendment XIX was proposed by Congress on June 4, 1919."
+    },
+    {
+        "question": "When was Amendment XIX ratified?",
+        "answer": "Ratification was completed on August 18, 1920, when the thirty-sixth State (Tennessee) approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XIX?",
+        "answer": "Amendment XIX was ratified by several states, including Illinois, Michigan, Wisconsin, Kansas, New York, Ohio, Pennsylvania, Massachusetts, Texas, Iowa, Missouri, Arkansas, Montana, Nebraska, Minnesota, New Hampshire, Utah, California, Maine, Rhode Island, Indiana, Wyoming, Nevada, New Jersey, Idaho, Arizona, New Mexico, Oklahoma, West Virginia, Washington, Tennessee, Vermont."
+    },
+    {
+        "question": "What is the subject matter of Amendment XX?",
+        "answer": "Amendment XX addresses the terms of the President, Vice President, Senators, and Representatives, as well as the convening of Congress."
+    },
+    {
+        "question": "When was Amendment XX proposed by Congress?",
+        "answer": "Amendment XX was proposed by Congress on March 2, 1932."
+    },
+    {
+        "question": "When was Amendment XX ratified?",
+        "answer": "Ratification was completed on January 23, 1933, when the thirty-sixth State approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XX?",
+        "answer": "Amendment XX was ratified by several states, including Virginia, New York, Mississippi, Arkansas, Kentucky, New Jersey, South Carolina, Michigan, Maine, Rhode Island, Illinois, Louisiana, West Virginia, Pennsylvania, Indiana, Texas, Alabama, California, North Carolina, North Dakota, Minnesota, Arizona, Montana, Nebraska, Oklahoma, Kansas, Oregon, Delaware, Washington, Wyoming, Iowa, South Dakota, Tennessee, Idaho, New Mexico, Georgia, Missouri, Ohio, Utah, Colorado, Massachusetts, Wisconsin, Nevada, Connecticut, New Hampshire, Vermont, Maryland, Florida."
+    },
+    {
+        "question": "What does Amendment XX, Section 1, specify regarding the terms of the President and Vice President?",
+        "answer": "Amendment XX, Section 1, specifies that the terms of the President and Vice President end at noon on the 20th day of January."
+    },
+    {
+        "question": "When does the Congress typically assemble, as mentioned in Amendment XX, Section 2?",
+        "answer": "Amendment XX, Section 2, states that the Congress shall assemble at least once every year, and the meeting shall begin at noon on the 3rd day of January, unless a different day is appointed by law."
+    },
+    {
+        "question": "What does Amendment XX, Section 3, address in case of the death of the President-elect?",
+        "answer": "Amendment XX, Section 3, states that if, at the time fixed for the beginning of the President-elect's term, the President-elect has died, the Vice President-elect shall become President."
+    },
+    {
+        "question": "When does Amendment XX, Section 5, take effect?",
+        "answer": "Amendment XX, Section 5, takes effect on the 15th day of October following the ratification of the article."
+    },
+    {
+        "question": "What is the ratification deadline specified in Amendment XX, Section 6?",
+        "answer": "Amendment XX, Section 6, specifies that this article shall be inoperative unless it has been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission."
+    },
+    {
+        "question": "What does Amendment XXI, Section 1, repeal?",
+        "answer": "Amendment XXI, Section 1, repeals the eighteenth article of amendment to the Constitution of the United States."
+    },
+    {
+        "question": "When was Amendment XXI proposed by Congress?",
+        "answer": "Amendment XXI was proposed by Congress on February 20, 1933."
+    },
+    {
+        "question": "When was Amendment XXI ratified?",
+        "answer": "Ratification was completed on December 5, 1933, when the thirty-sixth State (Utah) approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XXI?",
+        "answer": "Amendment XXI was ratified by several states, including Michigan, Wisconsin, Rhode Island, Wyoming, New Jersey, Delaware, Indiana, Massachusetts, New York, Illinois, Iowa, Connecticut, New Hampshire, California, West Virginia, Arkansas, Oregon, Alabama, Tennessee, Missouri, Arizona, Nevada, Vermont, Colorado, Washington, Minnesota, Idaho, Maryland, Virginia, New Mexico, Florida, Texas, Kentucky, Ohio, Pennsylvania, Utah, Maine, Montana."
+    },
+    {
+        "question": "What is prohibited by Amendment XXI, Section 2?",
+        "answer": "Amendment XXI, Section 2, prohibits the transportation or importation into any State, territory, or possession of the United States for delivery or use therein of intoxicating liquors, in violation of the laws thereof."
+    },
+    {
+        "question": "What is the ratification deadline specified in Amendment XXI, Section 3?",
+        "answer": "Amendment XXI, Section 3, specifies that this article shall be inoperative unless it has been ratified as an amendment to the Constitution by conventions in the several States within seven years from the date of the submission by Congress."
+    },
+    {
+        "question": "What is the subject matter of Amendment XXII?",
+        "answer": "Amendment XXII limits the number of terms a person can be elected to the office of the President."
+    },
+    {
+        "question": "When was Amendment XXII proposed by Congress?",
+        "answer": "Amendment XXII was proposed by Congress on March 24, 1947."
+    },
+    {
+        "question": "When was Amendment XXII ratified?",
+        "answer": "Ratification was completed on February 27, 1951, when the thirty-sixth State (Minnesota) approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XXII?",
+        "answer": "Amendment XXII was ratified by several states, including Maine, Michigan, Iowa, Kansas, New Hampshire, Delaware, Illinois, Oregon, Colorado, California, New Jersey, Vermont, Ohio, Wisconsin, Pennsylvania, Connecticut, Missouri, Nebraska, Virginia, Mississippi, New York, South Dakota, North Dakota, Louisiana, Montana, Indiana, Idaho, New Mexico, Wyoming, Arkansas, Georgia, Tennessee, Texas, Utah, Nevada, Minnesota, North Carolina, South Carolina, Maryland, Florida, Alabama."
+    },
+    {
+        "question": "What does Amendment XXII, Section 1, limit?",
+        "answer": "Amendment XXII, Section 1, limits the number of times a person can be elected to the office of the President to no more than twice."
+    },
+    {
+        "question": "What exception is mentioned in Amendment XXII, Section 1?",
+        "answer": "Amendment XXII, Section 1, provides an exception for any person holding the office of President when this Article was proposed by Congress."
+    },
+    {
+        "question": "What is the ratification deadline specified in Amendment XXII, Section 2?",
+        "answer": "Amendment XXII, Section 2, specifies that this article shall be inoperative unless it has been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission by Congress."
+    },
+    {
+        "question": "What does Amendment XXIII address?",
+        "answer": "Amendment XXIII addresses the right to vote for residents of the District of Columbia in presidential elections."
+    },
+    {
+        "question": "When was Amendment XXIII proposed by Congress?",
+        "answer": "Amendment XXIII was proposed by Congress on June 17, 1960."
+    },
+    {
+        "question": "When was Amendment XXIII ratified?",
+        "answer": "Ratification was completed on March 29, 1961, when the twenty-third state (Hawaii) approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XXIII?",
+        "answer": "Amendment XXIII was ratified by several states, including Hawaii, Alaska, Idaho, Wyoming, Arkansas, Nebraska, Iowa, Kansas, Oregon, Colorado, Missouri, Montana, Utah, New Mexico, Oklahoma, Arizona, Minnesota, New York, Wisconsin, Maryland, Massachusetts, West Virginia, Nevada, Vermont, and South Dakota."
+    },
+    {
+        "question": "What is the significance of Amendment XXIV?",
+        "answer": "Amendment XXIV prohibits the imposition of poll taxes as a requirement for voting in federal elections."
+    },
+    {
+        "question": "When was Amendment XXIV proposed by Congress?",
+        "answer": "Amendment XXIV was proposed by Congress on August 27, 1962."
+    },
+    {
+        "question": "When was Amendment XXIV ratified?",
+        "answer": "Ratification was completed on January 23, 1964, when the thirty-eighth state (South Dakota) approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XXIV?",
+        "answer": "Amendment XXIV was ratified by several states, including South Dakota, Alabama, Texas, North Carolina, Georgia, Louisiana, Florida, North Dakota, Arkansas, Mississippi, New Mexico, Iowa, Oklahoma, Arizona, Delaware, Nebraska, Utah, Missouri, Tennessee, Ohio, Indiana, Michigan, West Virginia, Maine, California, New York, Kentucky, Kansas, Oregon, Washington, Minnesota, Massachusetts, Wisconsin, Colorado, Nevada, Wyoming, New Jersey, Connecticut, and Vermont."
+    },
+    {
+        "question": "What does Amendment XXVII address?",
+        "answer": "Amendment XXVII addresses the compensation for the services of Senators and Representatives and requires that no law varying such compensation shall take effect until an election of Representatives has intervened."
+    },
+    {
+        "question": "When was Amendment XXVII proposed by Congress?",
+        "answer": "Amendment XXVII was proposed by Congress on September 25, 1789."
+    },
+    {
+        "question": "When was Amendment XXVII ratified?",
+        "answer": "Ratification was completed on May 7, 1992, when Michigan became the thirty-eighth state to ratify the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XXVII?",
+        "answer": "Amendment XXVII was ratified by Maryland, North Carolina, South Carolina, Delaware, Vermont, Virginia, Ohio, Wyoming, Maine, Colorado, South Dakota, New Hampshire, Arizona, Tennessee, Oklahoma, New Mexico, Indiana, Utah, Arkansas, Montana, Connecticut, and Wisconsin before it was officially proclaimed as the 27th Amendment."
+    },
+    {
+        "question": "What does Amendment XXVI address?",
+        "answer": "Amendment XXVI addresses the right of citizens of the United States, who are eighteen years of age or older, to vote, and it prohibits the denial or abridgment of this right on account of age."
+    },
+    {
+        "question": "When was Amendment XXVI proposed by Congress?",
+        "answer": "Amendment XXVI was proposed by Congress on March 23, 1971."
+    },
+    {
+        "question": "When was Amendment XXVI ratified?",
+        "answer": "Ratification was completed on July 1, 1971, when North Carolina, the thirty-eighth state, approved the amendment."
+    },
+    {
+        "question": "Which states ratified Amendment XXVI?",
+        "answer": "Amendment XXVI was ratified by several states, including Connecticut, Delaware, Minnesota, Tennessee, Washington, Hawaii, Massachusetts, Montana, Arkansas, Idaho, Iowa, Nebraska, New Jersey, Kansas, Michigan, Alaska, Rhode Island, Indiana, Vermont, Louisiana, California, Colorado, Pennsylvania, Texas, South Carolina, West Virginia, New Hampshire, Arizona, New York, Maryland, Missouri, Wisconsin, Illinois, Alabama, Ohio, North Carolina, Oklahoma, Virginia, Wyoming, and Georgia."
+    },
+    {
+        "question": "What is the subject of Amendment XXVI?",
+        "answer": "Amendment XXVI addresses the right to vote for citizens of the United States who are eighteen years of age or older."
+    },
+    {
+        "question": "What does Section 1 of Amendment XXVI state?",
+        "answer": "Section 1 of Amendment XXVI states that the right to vote shall not be denied or abridged by the United States or any State on account of age for citizens who are eighteen years of age or older."
+    },
+    {
+        "question": "What is the purpose of Section 2 of Amendment XXVI?",
+        "answer": "Section 2 of Amendment XXVI grants Congress the power to enforce the provisions of this amendment through appropriate legislation."
+    },
+    {
+        "question": "When was Amendment XXVI proposed by Congress, and when was ratification completed?",
+        "answer": "Amendment XXVI was proposed by Congress on March 23, 1971. Ratification was completed on July 1, 1971, when it was approved by the 38th State, North Carolina."
+    },
+    {
+        "question": "How many states had ratified Amendment XXVI by the time it was certified?",
+        "answer": "As of the certification date on July 5, 1971, a total of 42 states had ratified Amendment XXVI."
+    },
+    {
+        "question": "What is the subject of Amendment XXVII?",
+        "answer": "Amendment XXVII addresses the variation of compensation for the services of Senators and Representatives in Congress."
+    },
+    {
+        "question": "What does Amendment XXVII require regarding changes in compensation?",
+        "answer": "Amendment XXVII requires that no law varying the compensation for the services of Senators and Representatives shall take effect until an election of Representatives has intervened."
+    },
+    {
+        "question": "When was Amendment XXVII originally proposed by Congress?",
+        "answer": "Amendment XXVII was originally proposed by Congress on September 25, 1789."
+    },
+    {
+        "question": "What happened to Amendment XXVII after its original proposal?",
+        "answer": "After its original proposal in 1789, Amendment XXVII did not receive enough state ratifications and did not become part of the Constitution at that time."
+    },
+    {
+        "question": "When was Amendment XXVII finally ratified and added to the Constitution?",
+        "answer": "Amendment XXVII was finally ratified and added to the Constitution on May 7, 1992, when Michigan ratified it. It became the 27th Amendment to the Constitution."
+    }
+] 
